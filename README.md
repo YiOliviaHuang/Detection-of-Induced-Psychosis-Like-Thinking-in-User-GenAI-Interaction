@@ -40,8 +40,8 @@ Contains:
 - **non-rag test.py** — baseline classifier (no retrieval)  
 - **test.xlsx** — test set used to evaluate accuracy, precision, recall, and confusion matrices
 - **rag.xlsx** — the knowledge resource data for RAG
-- **test_with_predictions** — RAG method prediction results saved as Excel files for analysis 
-- **test_with_predictions_noRAG** — baseline model prediction results saved as Excel files for analysis
+- **test_with_predictions.xlsx** — RAG method prediction results saved as Excel files for analysis 
+- **test_with_predictions_noRAG.xlsx** — baseline model prediction results saved as Excel files for analysis
 
 ---
 
