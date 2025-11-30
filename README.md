@@ -49,7 +49,7 @@ Contains:
 Folder: `jamovi_analysis/`
 
 Contains:
-- **severity_tests.omv**  
+- **statistics.omv**  
   Jamovi file used to compute:
   - descriptive statistics  
   - Wilcoxon signed-rank tests  
